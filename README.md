@@ -1,2 +1,2 @@
 # data-cleaning-pandas
-Mini project - Shark Attacks
+mini project - shark attacks
